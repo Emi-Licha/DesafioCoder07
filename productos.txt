@@ -1,0 +1,21 @@
+
+[
+    {
+        "title": "Computaodra",
+        "price": 200.24,
+        "thumbnail": 1,
+        "id": 1
+    },
+    {
+        "title": "Iphone",
+        "price": 590.30,
+        "thumbnail": 2,
+        "id": 2
+    },
+    {
+        "title": "PS5",
+        "price": 456.75,
+        "thumbnail": 3,
+        "id": 3
+    }
+]
